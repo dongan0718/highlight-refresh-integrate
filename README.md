@@ -6,7 +6,7 @@
 
 > 경제 분석 보고서(PDF)를 올리면 근거 쪽수와 함께 요약·답변하는 RAG 서비스, **HRI Insight Bridge** 팀 프로젝트(6인, 2026.10.21 ~ 11.02)에서 제가 맡은 **질의응답·프롬프트 설계, 입력 검증·개인정보 보호, 공통 LLM 모듈, 정확도 검증**을 정리한 문서입니다.
 >
-> 팀 전체 소개와 실행 방법은 [팀 저장소 README: https://github.com/hyundai-insight-bridge/highlight-refresh-integrate.git](../../README.md)를 참고해 주세요.
+> 팀 전체 소개와 실행 방법은 [https://github.com/hyundai-insight-bridge/highlight-refresh-integrate.git](../../README.md)를 참고해 주세요.
 
 | 항목 | 내용 |
 |---|---|
